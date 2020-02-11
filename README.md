@@ -138,7 +138,7 @@ You will have a lot of pressure for the house. Start searching as quick as you g
 ## Community:
 Fuck the nice guy. Go there and YELL at people that you are looking for an accomodation. They will help you.
 
-- Try Facebook groups. For every city there are plenty of groups that look like: "Albaner in Dortmund" or "Shqiptaret ne Berin". They might help you.
+- Try Facebook groups. For every city there are plenty of groups that look like: "Albaner in Dortmund" or "Shqiptaret ne Berlin". They might help you.
 
 - Reddit. There should be a city channel in reddit and they help you a lot.
 
