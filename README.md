@@ -103,7 +103,7 @@ Once you pas the metal detector, you will meet the secretary. She will confirm y
 At the end, the interviewer says: You will be notified by email and than you leave. 
 
 ## In a few weeks (usually 10 days or a liiiiitle bit more)
-You will receive an email saying that the embassy has made a decision for your application. You *won't* receive the answer by email. You must go to the Embassy to get it. For the blue card, Germans have never been hursh. I don't know anyone who hasn't made it with a Visa, so don't worry so much about it.
+You will receive an email saying that the embassy has made a decision for your application. You *won't* receive the answer by email. You must go to the Embassy to get it. For the blue card, Germans have never been hursh. I don't know anyone who hasn't made it with a Visa, so don't worry so much about it. Make sure to print the invitation email otherwise you get nothing that day.
 
 ## If you don't get the VISA?
 Germans are pretty fair on their judgements so there is probably something wrong with you. I can't help you in this step, but probably a new application should be fine. I don't really know.
