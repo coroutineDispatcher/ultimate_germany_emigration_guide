@@ -20,7 +20,7 @@ I have noticed that Germans don't use .Net, C# or that kind of stuff, so the mar
 
 I believe Germans love a *written* confirmation from you. Like: Yea, I accept. (at least). 
 
-# The leaving your country process
+# Leaving your country process
 
 Unfortunately, as a non-Eu Albanian citizen, you would need hell lot of time to set things off right. You need at least 3 months to prepare to get there.
 
