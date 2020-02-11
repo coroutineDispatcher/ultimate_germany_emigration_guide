@@ -73,7 +73,7 @@ Before you get the job contract, I believe they should email you a PDF version f
 ### 6 -> Your degree: The university diploma and your master degree (if you have one).
 Now this is the only step that takes a lot of time. Take all your qualifications (only copies, not original documents), and go to the rectors office (known as Rektorati, it's in Qyteti Studenti, Godina Liria). Hand over your Diploma (and the master degree if you have one), to the secretary along with your note list (I also handed over a "Vertetim qe e ke ate diplome" but it's not mandatory). Tell the secretary the country you want to prepare those papers for (you should pay a small fee, 500 ALL to the bank). This will be sealed by the rector. Meanwhile you need to prove the world that your degree(s) is/are valid. So you must go to [Anabin Database](https://anabin.kmk.org/no_cache/filter/institutionen.html). Here, you must search for your degree exactly as it is described in the original paper you have. 
 
-*Note: The "Information technology and communication" and "Informatics" degree are on the same cathegory and please say this to the Embasy interviewer". Should appear like: Informatike/Teknologji Informacioni dhe komunikimi.
+*Note: The "Information technology and communication" and "Informatics" degree are on the same cathegory and please say this to the Embasy interviewer". Should appear like: Informatike/Teknologji Informacioni dhe komunikimi.*
 
 A small pop-up window will apear. Print that out 3 times (2 are required, i like 3 just in case) in German, 3 times in English.
 
@@ -102,5 +102,63 @@ Once you pas the metal detector, you will meet the secretary. She will confirm y
 
 At the end, the interviewer says: You will be notified by email and than you leave. 
 
-# In a few weeks (usually 10 days or a liiiiitle bit more)
-You will receive an email saying that the embassy has made a decision for your application. You *won't* receive the answer by email. You must go to the Embassy to get it. For the blue card, Germans have never been hursh. I don't know anyone who hasn't made it with a Visa, so don't worry so much about it. 
+## In a few weeks (usually 10 days or a liiiiitle bit more)
+You will receive an email saying that the embassy has made a decision for your application. You *won't* receive the answer by email. You must go to the Embassy to get it. For the blue card, Germans have never been hursh. I don't know anyone who hasn't made it with a Visa, so don't worry so much about it.
+
+## If you don't get the VISA?
+Germans are pretty fair on their judgements so there is probably something wrong with you. I can't help you in this step, but probably a new application should be fine. I don't really know.
+
+## You got the VISA? Congratulations
+Now is the time for the toughest test of your life. Finding a house to rent in Germany. It's hard, even for software engineers and you need luck, a lot of luck.
+
+# Finding a house
+Finding a house in Germany can make a grow man cry.
+Well, as said, finding a house is pretty hard in Germany, especially in Berlin and Munich. I have made a list of tips and tricks on finding a house in Germany but don't forget there are plenty of other houses too. 
+
+## Websites:
+I have used these websites to find a house in Germany:
+
+1- [Wg- Gesucht](https://www.wg-gesucht.de/)
+2- [Immowelt](https://www.immowelt.de/)
+3- [Immobilienscout24](https://www.immobilienscout24.de/)
+4- [Ebay kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
+
+If you require shared apartments, look for [Homefully](https://homeful.ly/).
+
+Small trick, if you have to do with agents, better email them and ignore the system.
+
+*Note that all sites have an app version in play store or app store. The only one that is not English friendly is Immowelt (but honestly it's very nice as a site)
+Also, there are specific websites depending on the city you are movin in*
+
+You will have a lot of pressure for the house. Start searching as quick as you get the Visa. 1 month before, is too late. Trust me.
+
+## Community:
+Fuck the nice guy. Go there and YELL at people that you are looking for an accomodation. They will help you.
+
+1- Try Facebook groups. For every city there are plenty of groups that look like: "Albaner in Dortmund" or "Shqiptaret ne Berin". They might help you.
+2- Reddit. There should be a city channel in reddit and they help you a lot.
+
+*IMPORTANT: DO NOT COORPORATE WITH MOTHERFUCKERS WHO DON'T SIGN A HOUSE CONTRACT. NO HOUSE CONTRACT, YOU CAN'T DO BASICALLY NOTHING IN GERMANY (AND YOU ARE BOTH BREAKING THE LAW). WILL EXPLAIN LATER WHY*
+
+# How do you convince a German to rent his/her house
+This is not that hard. All a Landlord requires is being stable and proving that you are able to pay, that you are able to take care of the house and that you are puntual. It's good to make it in German, but hopefully they speak English (they might reply in German but they fully understand you):
+
+*Sehr geehrte Damen und Herren
+Ich werde von Albanien nach Deutschland ziehen, um einen neuen Job in [Your City] zu beginnen. Ich bin Softwareentwickler bei [Your company name]. Ich bin albanischer Staatsbürger und [Your age] Jahre alt. Mein Gehalt wird voraussichtlich [Your salary] Euro pro Jahr  betragen.
+Ich suche eine Wohnung zur Miete in [Your city] und möchte einen Besichtigungstermin vereinbaren.
+Mein Deutsch ist leider nicht gut. Können Sie sich auch auf Englisch verständigen?
+Mit freundlichen Grüßen
+[Your Name]*
+
+Cmon, you are a programmer, you are good with variables. Your salary will decide his response. You are not the only candiate so, probably they will schedule a meeting or something.
+
+### Other options:
+Well, you can stay with Airbnb or Booking for a fortnite and schedule meetings locally in Germany. Also requires luck.
+
+## Why do you need a house contract? 
+Without a house contract, you can't receive the "Anmeldung". The "Anmeldung" is a proof of residence in your city. Without it, you can't open a bank account, you can't buy a cellphone number, you can't do literally anything. No "Anmeldung", no party. 
+
+## Applying for Anmeldung
+That's the easiest part of the whole guide. Just go to the website of the city you are going to live in and schedule a meeting with the office. You can also email them, or call them. You have a lot of guides on the internet for this step just Google search "Anmeldung in [Your city]"
+
+To be continued.....
