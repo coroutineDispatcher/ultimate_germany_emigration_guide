@@ -147,12 +147,14 @@ Fuck the nice guy. Go there and YELL at people that you are looking for an accom
 # How do you convince a German to rent his/her house
 This is not that hard. All a Landlord requires is being stable and proving that you are able to pay, that you are able to take care of the house and that you are puntual.I made a small template to write to the Landlord to start negotiating for the house. It's good to make it in German, but hopefully they speak English (they might reply in German but they fully understand you):
 
-*Sehr geehrte Damen und Herren
-Ich werde von Albanien nach Deutschland ziehen, um einen neuen Job in [Your City] zu beginnen. Ich bin Softwareentwickler bei [Your company name]. Ich bin albanischer Staatsbürger und [Your age] Jahre alt. Mein Gehalt wird voraussichtlich [Your salary] Euro pro Jahr  betragen.
+*Sehr geehrte Damen und Herren*
+
+*Ich werde von Albanien nach Deutschland ziehen, um einen neuen Job in [Your City] zu beginnen. Ich bin Softwareentwickler bei [Your company name]. Ich bin albanischer Staatsbürger und [Your age] Jahre alt. Mein Gehalt wird voraussichtlich [Your salary] Euro pro Jahr  betragen.
 Ich suche eine Wohnung zur Miete in [Your city] und möchte einen Besichtigungstermin vereinbaren.
 Mein Deutsch ist leider nicht gut. Können Sie sich auch auf Englisch verständigen?
-Mit freundlichen Grüßen
-[Your Name]*
+Mit freundlichen Grüßen*
+
+*[Your Name]*
 
 Cmon, you are a programmer, you are good with variables. Your salary will decide his response. You are not the only candiate so, probably they will schedule a meeting or something.
 
