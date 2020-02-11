@@ -118,10 +118,13 @@ Well, as said, finding a house is pretty hard in Germany, especially in Berlin a
 ## Websites:
 I have used these websites to find a house in Germany:
 
-1- [Wg- Gesucht](https://www.wg-gesucht.de/)
-2- [Immowelt](https://www.immowelt.de/)
-3- [Immobilienscout24](https://www.immobilienscout24.de/)
-4- [Ebay kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
+- [Wg- Gesucht](https://www.wg-gesucht.de/)
+
+- [Immowelt](https://www.immowelt.de/)
+
+- [Immobilienscout24](https://www.immobilienscout24.de/)
+
+- [Ebay kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 
 If you require shared apartments, look for [Homefully](https://homeful.ly/).
 
@@ -135,10 +138,11 @@ You will have a lot of pressure for the house. Start searching as quick as you g
 ## Community:
 Fuck the nice guy. Go there and YELL at people that you are looking for an accomodation. They will help you.
 
-1- Try Facebook groups. For every city there are plenty of groups that look like: "Albaner in Dortmund" or "Shqiptaret ne Berin". They might help you.
-2- Reddit. There should be a city channel in reddit and they help you a lot.
+- Try Facebook groups. For every city there are plenty of groups that look like: "Albaner in Dortmund" or "Shqiptaret ne Berin". They might help you.
 
-*IMPORTANT: DO NOT COORPORATE WITH MOTHERFUCKERS WHO DON'T SIGN A HOUSE CONTRACT. NO HOUSE CONTRACT, YOU CAN'T DO BASICALLY NOTHING IN GERMANY (AND YOU ARE BOTH BREAKING THE LAW). WILL EXPLAIN LATER WHY*
+- Reddit. There should be a city channel in reddit and they help you a lot.
+
+### *IMPORTANT: DO NOT COORPORATE WITH MOTHERFUCKERS WHO DON'T SIGN A HOUSE CONTRACT. NO HOUSE CONTRACT, YOU CAN'T DO BASICALLY NOTHING IN GERMANY (AND YOU ARE BOTH BREAKING THE LAW). WILL EXPLAIN LATER WHY*
 
 # How do you convince a German to rent his/her house
 This is not that hard. All a Landlord requires is being stable and proving that you are able to pay, that you are able to take care of the house and that you are puntual. It's good to make it in German, but hopefully they speak English (they might reply in German but they fully understand you):
