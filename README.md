@@ -70,7 +70,7 @@ You must show the job offer to the embassy. You must have the original one, so y
 
 Before you get the job contract, I believe they should email you a PDF version for you.
 
-### 6 -> Your degree: The university diploma or your master degree.
+### 6 -> Your degree: The university diploma and your master degree (if you have one).
 Now this is the only step that takes a lot of time. Take all your qualifications (only copies, not original documents), and go to the rectors office (known as Rektorati, it's in Qyteti Studenti, Godina Liria). Hand over your Diploma (and the master degree if you have one), to the secretary along with your note list (I also handed over a "Vertetim qe e ke ate diplome" but it's not mandatory). Tell the secretary the country you want to prepare those papers for (you should pay a small fee, 500 ALL to the bank). This will be sealed by the rector. Meanwhile you need to prove the world that your degree(s) is/are valid. So you must go to [Anabin Database](https://anabin.kmk.org/no_cache/filter/institutionen.html). Here, you must search for your degree exactly as it is described in the original paper you have. 
 
 *Note: The "Information technology and communication" and "Informatics" degree are on the same cathegory and please say this to the Embasy interviewer". Should appear like: Informatike/Teknologji Informacioni dhe komunikimi.
