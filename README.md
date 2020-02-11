@@ -27,3 +27,12 @@ Unfortunately, as a non-Eu Albanian citizen, you would need hell lot of time to 
 # Blue card process
 
 I believe that every software engineer salary should make you qualified for the blue card. What the heck is the Blue Card? Well, the Greek call it *Prasino Karta*, the Italians call it *Carta Biancha*, the Americans call it *The Green Card*. The Germans call it *Die blaue Karte* (Don't be scared of Der, Die, Das yet). It's just a card where you take permission from the German goverment to stay 4 years in Germany. It all depends on the salary though. If it is *43K+* per year, you are fully qualified for it.
+
+## How do you apply for this Blue Card
+
+Well, you can't imediately apply for that. You need a 6 month VISA and once you have that, you can come to Germany to apply for it.
+
+## The Visa process
+
+Once you have all the agreement with the company, you should imediately schedule a meeting at the [Embasy of Germany in Albania](https://tirana.diplo.de/). 
+Germans don't usually create confusion on any website, so the process should be pretty easy. So in order to schedule a meeting on the German Embassy, I am redirecting you to an [information link](https://tirana.diplo.de/al-sq/service/-/2076500), and the schedule link is just on the bottom of the page (just in case they change the links sometimes).
