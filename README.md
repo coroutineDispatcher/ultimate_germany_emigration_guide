@@ -36,3 +36,5 @@ Well, you can't imediately apply for that. You need a 6 month VISA and once you 
 
 Once you have all the agreement with the company, you should imediately schedule a meeting at the [Embasy of Germany in Albania](https://tirana.diplo.de/). 
 Germans don't usually create confusion on any website, so the process should be pretty easy. So in order to schedule a meeting on the German Embassy, I am redirecting you to an [information link](https://tirana.diplo.de/al-sq/service/-/2076500), and the schedule link is just on the bottom of the page (just in case they change the links sometimes).
+
+### Please read the whole process and do exactly the ammount of actions required. Not more, not less.
