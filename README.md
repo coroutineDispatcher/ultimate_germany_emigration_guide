@@ -167,4 +167,6 @@ Without a house contract, you can't receive the "Anmeldung". The "Anmeldung" is 
 ## Applying for Anmeldung
 That's the easiest part of the whole guide. Just go to the website of the city you are going to live in and schedule a meeting with the office. You can also email them, or call them. You have a lot of guides on the internet for this step just Google search "Anmeldung in [Your city]"
 
+Unfortunately, because of the Corona Virus situation, I was unable to to go with a regular meeting about adress registration (Anmeldung). So I sent the letters by mail. Waiting for a letter back.
+
 To be continued.....
