@@ -163,11 +163,11 @@ Cmon, you are a programmer, you are good with variables. Your salary will decide
 Well, you can stay with Airbnb or Booking for a fortnite and schedule meetings locally in Germany. Also requires luck.
 
 ## Why do you need a house contract? 
-Without a house contract, you can't receive the "Anmeldung". The "Anmeldung" is a proof of residence in your city. Without it, you can't open a bank account, you can't buy a cellphone number, you can't do literally anything. No "Anmeldung", no party. I guess this also answers the question: "Why can't I use a long term Airbnb accommodation?".
+Without a house contract, you can't receive the "Anmeldung". The "Anmeldung" is a proof of residence in your city. Without it, you can't open a bank account, you can't do literally anything. No "Anmeldung", no party. I guess this also answers the question: "Why can't I use a long term Airbnb accommodation?".
 
 ## Applying for Anmeldung
 That's the easiest part of the whole guide. Just go to the website of the city you are going to live in and schedule a meeting with the office. You can also email them, or call them. You have a lot of guides on the internet for this step just Google search "Anmeldung in [Your city]"
 
-Unfortunately, because of the Corona Virus situation, I was unable to to go with a regular meeting about adress registration (Anmeldung). So I sent the letters by mail. Waiting for a letter back.
+Unfortunately, because of the Corona Virus situation, I was unable to to go with a regular meeting about adress registration (Anmeldung). So I sent the letters by mail.
 
-To be continued.....
+In a couple of days you would need to check your mailbox for any letters from the KVR office you sent the letters to.
