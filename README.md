@@ -25,7 +25,7 @@ I believe Germans love a *written* confirmation from you. Like: Yea, I accept. (
 
 Unfortunately, as a non-Eu Albanian citizen, you would need hell lot of time to set things off right. You need at least 3 months to prepare to get there.
 
-# Blue card process
+# The whole proccess
 
 I believe that every software engineer salary should make you qualified for the blue card. What the heck is the Blue Card? Well, the Greek call it *Prasino Karta*, the Italians call it *Carta Biancha*, the Americans call it *The Green Card*. The Germans call it *Die blaue Karte* (Don't be scared of Der, Die, Das yet). It's just a card where you take permission from the German government to stay 4 years in Germany. It all depends on the salary though. If it is *43K+* per year, you are fully qualified for it.
 
@@ -171,3 +171,7 @@ That's the easiest part of the whole guide. Just go to the website of the city y
 Unfortunately, because of the Corona Virus situation, I was unable to to go with a regular meeting about adress registration (Anmeldung). So I sent the letters by mail.
 
 In a couple of days you would need to check your mailbox for any letters from the KVR office you sent the letters to.
+And just a weak later you should receive your Tax id information. After you have the Tax Id, you can go to any bank and open a bank account.
+
+## I don't need a tax id
+Yes you do need a tax id, unless you are working illegally. And you cannot have a bank account without a Tax id.
