@@ -49,6 +49,7 @@ You should be able to get the date of the meeting in a couple of days (max a wee
 Uh boy/girl, now you're in trouble. This is the documents you would need to bring to the day of meeting in the Embassy. Please, check the [link](https://tirana.diplo.de/blob/2076800/244ed84e2dc85dca7d8c25a05e96152f/download-merkblatt-arbeitsaufnahme-alb-data.pdf) if there are any changes. *Don't hold this repository responsible for your Visa failure*.
 
 *Before I start, note that every document needs at least 2 **copies** to be handed over to the Embassy*
+*Note: You might wanna do a scan all the papers because after the Embassy meeting, your employer will get a letter from the Work Agency where they require you to send all the papers that you have applied with in the Embassy
 
 ### 1 -> The application form (or as I like to call it: "Don't fuck with the Germans" form)
 You need 2 copies of *hand written* application form. All the information should be totally honest and one single lie on that form is supposed to penalize you for all future applications. If you have ever been to jail, or if you carry a disease you better don't lie.
