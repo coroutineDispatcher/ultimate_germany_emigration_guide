@@ -10,6 +10,7 @@ I personally got lucky on [Stack Overflow jobs](https://stackoverflow.com/jobs) 
 ### [Moberries](https://www.moberries.com/)
 ### [Linkedin(You have to work hard on your profile though)](https://www.linkedin.com/)
 ### [Stepstone](https://www.stepstone.de/)
+### [CampusJager](https://www.campusjaeger.de/?rId=P4bvlTuBZcil)
 
 ## Software scopes that should be looking for a job in Germany:
 
