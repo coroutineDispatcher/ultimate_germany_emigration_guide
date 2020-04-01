@@ -175,5 +175,11 @@ Unfortunately, because of the Corona Virus situation, I was unable to to go with
 In a couple of days you would need to check your mailbox for any letters from the KVR office you sent the letters to.
 And just a weak later you should receive your Tax id information. After you have the Tax Id, you can go to any bank and open a bank account.
 
+# Meanwhile, the most important part.
+You need to send an email to the migration.kvr@muenchen.de with your full name, birthday, birthplace and your current address to schedule the meeting for the Blue card. Wait for their response, and check out the [documentation](https://www.muenchen.de/rathaus/home_en/Department-of-Public-Order/Foreigners-Office/International-professionals/Employment-self-employment-economic-migration.html) you need to send them (mostly it's nearly the same documents you handled to the Albanian Embassy).
+
 ## I don't need a tax id
 Yes you do need a tax id, unless you are working illegally. And you cannot have a bank account without a Tax id.
+
+## I got the tax ID. Now what?
+After you get the Tax ID. You need to open the bank account to receive the salary. In Germany, as far as I personally am concerned, you can choose whatever bank you like inside the Europian Union. I personally chose Sparkasse, but you can choose whatever you want. Take your passport, your TaxID letter (and your Anmeldung), schedule a meeting with the bank and that's it.
