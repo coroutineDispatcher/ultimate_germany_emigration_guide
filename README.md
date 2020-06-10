@@ -183,3 +183,10 @@ Yes you do need a tax id, unless you are working illegally. And you cannot have 
 
 ## I got the tax ID. Now what?
 After you get the Tax ID. You need to open the bank account to receive the salary. In Germany, as far as I personally am concerned, you can choose whatever bank you like inside the Europian Union. I personally chose Sparkasse, but you can choose whatever you want. Take your passport, your TaxID letter (and your Anmeldung), schedule a meeting with the bank and that's it.
+
+## Some small details you need to consider.
+### Television and Radio tax
+Once you get registered in Munich, you will get a letter to get registered in the [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/). It's basically a tax that you have to pay for public broadcasts of radio and television. Mandatory. Be careful with their dates though, you must pay in the date that is stated on the document you will get.
+
+### liability insurance
+Not mandatory! However Landlords appreciate you for having this. Well, works like this: You break my 3000$ laptop and you have no money to pay me back, and I'm so angry with you and really hate you right now. So, you can just use the liability insurance document, I get my money back, and I don't hate you anymore. You just pay an ammount of small money each month (5-10 Euros).
