@@ -190,3 +190,14 @@ Once you get registered in Munich, you will get a letter to get registered in th
 
 ### Liability insurance
 Not mandatory! However Landlords appreciate you for having this. Well, works like this: You break my 3000$ laptop and you have no money to pay me back, and I'm so angry with you and really hate you right now. So, you can just use the liability insurance document, I get my money back, and I don't hate you anymore. You just pay an ammount of small money each month (5-10 Euros).
+
+*You might like to also pay the Legal insurance, it saves a lot of money and time to find a lawyer when you actually need it, if you actually need it*
+
+# Blue Card
+I have had thousands of problems with the application since it resulted that the COVID-19 situation delayed the process a lot. What you have to do in these situations is to contact the foreigners office by email and ask for a meeting. They will come back to you in a few days asking for your documents. Scan everything they ask and send them. Normally, they ask for the same documents that you have handed over in the local embassy. The process inside is a very ordinary process. Once you have the meeting confirmation on your email, you can show it to the man/woman at the door so you can get in. Then, wait for your name + number to be displayed in the screen, in the area that you are supposed to wait (every detail is on your email). All you have to do in that office is stay, place your fingerprints in the scanner, answer some pretty basic questions (it's better if you speak German, but not obligatory for the Blue Card). You would have to pay a fee that is normally 120 Eu or less, cash or local German debit card and nothing more. After the successful process, you will get a *Fiktionsbescheinigung*, which is just a temporary "Blue Card" until your original/normal one gets printed (you have to wait for at least 2 months). In 2 months and a half ~ 3 months, your blue card and you work permit will be in your adress, or you have to go to the closest postal office to collect it. This is your passport, your ID card, your everything. Congratulations, you made it!
+
+*Note*
+You can use the Blue Card electronically, for buying cigarettes on the machines at the streets or for some services that use online ID verification. To be honest I have never used it.
+
+# Meanwhile
+Now that you can fully stay in Germany legally, in 33 months (blue card is valid for 4 years), it is your right to apply for the temporary residence permit (unless the laws change). It would not hurt to learn some German meanwhile because after 2 years of the residence permit, you have the right to ask for the German Citizenship, unless you want to keep yours. But you need a B2 level of German, and to know some history of the country. 
