@@ -145,7 +145,7 @@ Don't be the nice guy when you look for an appartment. Go there and YELL at peop
 
 - Reddit. There should be a city channel in reddit and they help you a lot.
 
-### *IMPORTANT: DO NOT COOPERATE WITH MOTHERFUCKERS WHO DON'T SIGN A HOUSE CONTRACT. NO HOUSE CONTRACT, YOU CAN'T DO BASICALLY NOTHING IN GERMANY (AND YOU ARE BOTH BREAKING THE LAW). WILL EXPLAIN LATER WHY*
+### *IMPORTANT: DO NOT COOPERATE WITH **** WHO DON'T SIGN A HOUSE CONTRACT. NO HOUSE CONTRACT, YOU CAN'T DO BASICALLY NOTHING IN GERMANY (AND YOU ARE BOTH BREAKING THE LAW). WILL EXPLAIN LATER WHY*
 
 # How do you convince a German to rent his/her house
 This is not that hard. All a Landlord requires is being stable and proving that you are able to pay, that you are able to take care of the house and that you are punctual. I made a small template to write to the Landlord to start negotiating for the house. It's good to make it in German, but hopefully they speak English (they might reply in German but they fully understand you):
