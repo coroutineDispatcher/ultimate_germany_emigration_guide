@@ -51,14 +51,14 @@ Uh boy/girl, now you're in trouble. This is the documents you would need to brin
 *Before I start, note that every document needs at least 2 **copies** to be handed over to the Embassy*
 *Note: You might wanna do a scan all the papers because after the Embassy meeting, your employer will get a letter from the Work Agency where they require you to send all the papers that you have applied with in the Embassy
 
-### 1 -> The application form (or as I like to call it: "Don't fuck with the Germans" form)
+### 1 -> The application form (or as I like to call it: "Don't mess with the Germans" form)
 You need 2 copies of *hand written* application form. All the information should be totally honest and one single lie on that form is supposed to penalize you for all future applications. If you have ever been to jail, or if you carry a disease you better don't lie.
 Now, there are some specific questions but feel free to reach me on [twitter](https://twitter.com/suspendfunction) because there are a little bit confusing for us as Albanians.(Like the question "What are your means of subsistence?").
 
 *Note: After 1st February 2020, the German Embassy is accepting only electronic forms. But you will be notified for that on your email. I applied on January 2020 so sorry, can't help you with that.*
 
 ### 2 -> Payment
-I used to pay 70 Euros in Albanian Lek with the days current currency (That day I payed 9200 ALL). Make sure to bring the money exactly **as much as is required**, because less money can't buy a valid application, and more money doesn't give you change and it's not accepted. Let's say you give 10000 ALL and you say: "Keep the change!". Fuck no! That's considered corruption, and failing your meeting that day. The Embassy guys are not cashiers. The payment as you may have noticed is made inside, on the day of meeting, in the interview point. You will receive the bill, don't worry.
+I used to pay 70 Euros in Albanian Lek with the days current currency (That day I payed 9200 ALL). Make sure to bring the money exactly **as much as is required**, because less money can't buy a valid application, and more money doesn't give you change and it's not accepted. Let's say you give 10000 ALL and you say: "Keep the change!". Hell no! That's considered corruption, and failing your meeting that day. The Embassy guys are not cashiers. The payment as you may have noticed is made inside, on the day of meeting, in the interview point. You will receive the bill, don't worry.
 
 ### 3 -> Passport photographs
 This is easy, just make sure they are 6 months old or newer. The format should be 40 with 30 mm but if you go to any photography studio in Tirana, you can just say: "I need a picture for the German Embassy".
