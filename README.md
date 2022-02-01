@@ -139,7 +139,7 @@ Also, there are specific websites depending on the city you are movin in*
 You will have a lot of pressure for the house. Start searching as quick as you get the Visa. 1 month before, is too late. Trust me.
 
 ## Community:
-Fuck the nice guy. Go there and YELL at people that you are looking for an accommodation. They will help you.
+Don't be the nice guy when you look for an appartment. Go there and YELL at people that you are looking for an accommodation. They will help you.
 
 - Try Facebook groups. For every city there are plenty of groups that look like: "Albaner in Dortmund" or "Shqiptaret ne Berlin". They might help you.
 
